@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ichinga Samuel
 - 👀 I’m interested in Software Development and Machine Learning
-- 💞️ I’m looking to collaborate on Natural Language Processing
 - 📫 How to reach me ichingasamuel@gmail.com
 
 <!---
